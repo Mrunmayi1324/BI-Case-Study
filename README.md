@@ -1,4 +1,4 @@
-# 📊 Business Intelligence Case Study | Power BI Dashboard
+#  Business Intelligence Case Study | Power BI Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blue)
